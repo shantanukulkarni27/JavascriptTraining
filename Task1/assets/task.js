@@ -1,22 +1,16 @@
-console.log("hi");
-
 
 //-------------------Primitive-------------------//
 //String
 var Str="This is string";
-
 console.log(Str,"type of",typeof Str);
-
 
 //Constant
 const a =10; 
 console.log("constant a has value of",a,"and it's type is",typeof a);
 
-
 //Number
 var b= 10;
 console.log("b is type of  ",typeof b)
-
 
 //Null
 var c=null;

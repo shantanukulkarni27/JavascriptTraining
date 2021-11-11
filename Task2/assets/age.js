@@ -3,7 +3,6 @@
 var currentYear =2021;
 var birthYear = 2001;
 
-
 function ageCalc(cY,bY){
 
      console.log(`Your BirthYear is ${bY}`);
