@@ -19,3 +19,4 @@ else{
     bills[indexVal]=bill+gst;
     console.log("final bill list is",bills);
 }
+
