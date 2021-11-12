@@ -29,7 +29,6 @@ console.log("e has value of",typeof e)
 
 //Object
 let Obj={
-
     firstName: "Bryan",
     lastName: "Adams",
     age:20
