@@ -24,7 +24,6 @@ console.log("D is type of",typeof d);
 let e = true;
 console.log("e has value of",typeof e)
 
-
 //--------------Non Primitive--------------------//
 
 //Object
@@ -33,7 +32,6 @@ let Obj={
     lastName: "Adams",
     age:20
 }
-
 console.log(typeof Obj);
 console.log(Obj.firstName);
 console.log(Obj.age);
@@ -42,18 +40,16 @@ console.log(Obj.age);
 let arr = [10,20,"text",40];
 console.log(arr[2],arr[3]);
 
-
 var x = 10;
 console.log("This is x before the function",x);
 
 //Function 
 function trial(){
     let x=15;
-    console.log("This is x in the function",x)
+    console.log("This is x in the function",x);
 }
-console.log("Trial is",typeof trial)
+console.log("Trial is",typeof trial);
 trial();
-
 console.log("This is x after function call",x);
 
 
