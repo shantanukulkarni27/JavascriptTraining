@@ -5,6 +5,6 @@ let colors ={
 };
 let newArr = []
 newArr = Object.entries(colors);
-console.log("users",newArr);
+console.log(newArr);
 
 
